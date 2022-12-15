@@ -15,7 +15,9 @@ yarn start
 - ...
 
 Todo :
-- ...
+- [Connction with firebase](https://rnfirebase.io/)
+- [Rooter](https://v5.reactrouter.com/native/guides/quick-start)
+
 
 ## 🏛️ `Technology used`
 - React Native
